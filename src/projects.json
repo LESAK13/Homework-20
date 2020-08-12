@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Renovation Hunter",
+      "summary": "An application for homeowners to post jobs and for contractors to find jobs.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/f4/The_Wire_Jimmy_McNulty.jpg" 
+    },
+    {
+      "id": 2,
+      "name": "NFL Quiz",
+      "summary": "An application that allows users to test their NFL knowledge and track high scores.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_Wire_Stringer_Bell.jpg" 
+    },
+    {
+      "id": 3,
+      "name": "Calorie Counter",
+      "summary": "An application to help the user track daily calories by mealtype throughout the day.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6c/The_Wire_Kima.jpg" 
+    },
+    {
+      "id": 4,
+      "name": "Note Taker",
+      "summary": "TAn application for posting, saving and deleting notes.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/ea/The_Wire_Bunny.jpg" 
+    },
+    {
+      "id": 5,
+      "name": "Weather Dashboard",
+      "summary": "An application for searching the current and future weather conditions by city.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Wire_Frank_Sobotka.jpg" 
+    },
+    {
+      "id": 6,
+      "name": "Eat-Da-Burger",
+      "summary": "An application that allows users to track types of burgers and whether or not they were devoured or not.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/The_Wire_Prez.jpg" 
+    }
+  ]
