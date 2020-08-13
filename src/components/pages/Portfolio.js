@@ -2,8 +2,7 @@ import React from "react";
 import Project from "../Project";
 import projects from "../../projects.json";
 import { Container } from 'react-bootstrap';
-
-
+import "../../style.css";
 
 function Portfolio() {
   return (
