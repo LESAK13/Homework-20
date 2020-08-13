@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
-import { Jumbotron, } from 'react-bootstrap';
+import { Jumbotron } from 'react-bootstrap';
 
 function Header() {
   const location = useLocation();

@@ -1,10 +1,13 @@
 import React from "react";
 import Project from "../Project";
 import projects from "../../projects.json";
+import { Container } from 'react-bootstrap';
+
 
 
 function Portfolio() {
   return (
+    <Container>
     <div>
       <h1>Portfolio</h1>
       <h3>Welcome to my portfolio!</h3>
@@ -14,10 +17,11 @@ function Portfolio() {
             key={project.id}
             name={project.name}
             summary={project.summary}
-            image={project.image}
+            link={project.link}
           />
         ))}
     </div>
+    </Container>
   );
 }
 

@@ -4,9 +4,6 @@ import "../style.css";
 function Project(props) {
     return (
     <div className="card">
-        <div className="img-container">
-            <img alt={props.name} src={props.image} />
-        </div>
         <div className="content">
             <ul>
                 <li>
@@ -14,6 +11,9 @@ function Project(props) {
                 </li>
                 <li>
                     {props.summary}
+                </li>
+                <li>
+                <a href={props.link} class="btn btn-secondary">{props.name}</a>
                 </li>
             </ul>
         </div>
